@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "397808850206",
+    "project_id": "acm-project-4b157",
+    "storage_bucket": "acm-project-4b157.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397808850206:android:7c7fcf07cf690d00d5e50f",
+        "android_client_info": {
+          "package_name": "com.example.acm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDWyRjTV3cE3bGEQSsR3D1AYIpHgdHYZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
