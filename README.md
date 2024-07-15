@@ -22,14 +22,17 @@ Welcome to the Vendor Invoicing App! This application is designed to help small 
 
 
 
-Usage
-Login/Sign Up: Use your credentials to log in or sign up.
-Create Bill: Navigate to the Create Bill page and fill in the required details to generate an invoice.
-Manual Entry: Navigate to the Manual Entry page to add cash transactions manually.
-View Weekly Earnings: Check the home page to see a bar graph of your weekly earnings.
+## Usage
+
+- **Login/Sign Up**: Use your credentials to log in or sign up.
+- **Create Bill**: Navigate to the Create Bill page and fill in the required details to generate an invoice.
+- **Manual Entry**: Navigate to the Manual Entry page to add cash transactions manually.
+- **View Weekly Earnings**: Check the home page to see a bar graph of your weekly earnings.
 
 
-Contribution
+
+ ## Contribution
+
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 
